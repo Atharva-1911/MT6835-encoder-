@@ -14,3 +14,10 @@ MOSI reads: 1
 MOSI reads: 1
 MOSI reads: 1
 MOSI reads: 1
+
+STEP 3:
+Send a data thrugh MOSI and Receive data through MISO pin. This concludes that the SPI is working on the encoder. 
+If it is working o/p must be FF else 00:
+Received: FF
+Received: FF
+Received: FF
